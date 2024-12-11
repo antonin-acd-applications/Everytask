@@ -1,1 +1,18 @@
-{}
+{
+    "1.0.0": {
+        "version": "1.0.0",
+        "python": "3.7.9",
+        "description": "Everytask est une application permettant d'héberger des sous applications, elles peuvent afficher des widgets, permettant un accés rapide, afficher une application complète ou encore créer des sous-processus.",
+        "plus": [],
+        "minus": [],
+        "corrections": []
+    },
+    "1.0.1": {
+        "version": "1.0.1",
+        "python":"3.7.9",
+        "description": "Cette version ajoute un assistant nommé Raven qui permet d'avoir une route de fonction en fonction du bouton appuyé ou du contexte",
+        "plus": ["Raven, the assistant"],
+        "minus": [],
+        "corrections": ["Lags au début"]
+    }
+}
